@@ -22,7 +22,7 @@ The complete architectural blueprint and project plan are available in the [`doc
 2. [**System Architecture & Design**](./docs/02_System_Architecture_and_Design.md) (RAG AI Design, Navigation Engine, Flow Diagrams)
 3. [**Technical Specifications**](./docs/03_Technical_Specifications.md) (Database Schema, API Design, Repository Structure)
 4. [**UI/UX Wireframes**](./docs/04_UI_UX_Wireframes.md) (Layouts for Chat, Dashboard, and Map Navigation)
-5. [**Project Roadmap & Marketing**](./docs/05_Project_Roadmap_and_Marketing.md) (MVP definition, Resume snippets, Development Phases)
+5. [**Project Roadmap**](./docs/05_Project_Roadmap.md) (MVP definition, Development Phases)
 
 ## 🛠️ Tech Stack
 
